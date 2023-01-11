@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "3710164294",
+    "project_id": "chat-app-course-1deae",
+    "storage_bucket": "chat-app-course-1deae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3710164294:android:8179c7c0b3e214e7409947",
+        "android_client_info": {
+          "package_name": "com.macaulayfamous.chat_app_course"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "3710164294-dhq0ihhrj6lq0o11gdce261p5uhe4h5a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDit8uim0rmqrEjPI1J7NIQQtF1PsT_7is"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "3710164294-dhq0ihhrj6lq0o11gdce261p5uhe4h5a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
